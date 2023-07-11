@@ -3,5 +3,17 @@
 @tailwind utilities;
 
 body{
-  background-color: #000300;
+  background-color: #F9F9F9;
+  
+}
+
+.hero-container{
+  background-image: url('../src/assets/Rec_3.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: absolute;
+}
+.nav{
+  background: #121212;
+  width: 100vw;
 }

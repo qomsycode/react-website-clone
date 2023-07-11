@@ -1,19 +1,18 @@
 import React from 'react'
-import Navbar from './components/Navbar';
-import Hero from './components/Hero';
-import Analytics from './components/Analytics';
-import Newsletter from './components/Newsletter';
-import Cards from './components/cards';
-import Footer from './components/footer';
+import Navbar from './components/Navbar'
+import Hero from './components/Hero'
+import Whyear from './components/Whyear'
+import How from './components/How'
+import Footer from './components/Footer'
+
 
 function App() {
   return (
-    <div >
+    <div>
       <Navbar/>
       <Hero/>
-      <Analytics/>
-      <Newsletter/>
-      <Cards/>
+      <Whyear/>
+      <How/>
       <Footer/>
     </div>
   )
