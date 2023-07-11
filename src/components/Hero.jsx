@@ -1,12 +1,10 @@
 import React from 'react'
-<<<<<<< HEAD
 import PS_icon from '../assets/PS_icon.png'
 import apple from '../assets/apple.png'
 import rectangle_1 from '../assets/rectangle_1.png'
 import rectangle_2 from '../assets/rectangle_2.png'
-=======
 import Typed from 'react-typed';  {/*Using the typed to change text sequence*/}
->>>>>>> 4adb99ab192de1f5fde61d61813ccfa70fb28672
+
 
 const Hero=()=>{
     return(
